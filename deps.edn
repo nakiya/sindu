@@ -1,0 +1,5 @@
+{:deps
+ {enlive {:mvn/version "1.1.6"}
+  ragtime {:mvn/version "0.8.0"}
+  org.clojure/java.jdbc {:mvn/version "0.7.9"}
+  mysql/mysql-connector-java {:mvn/version "8.0.15"}}}
